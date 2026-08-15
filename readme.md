@@ -1,6 +1,5 @@
 ### 🌐 Daftar TLD Dunia - Kategori & Country Code
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/TLDs-250%252B-blue
+
 ### EDU (PENDIDIKAN)
  ASIA: edu.id, edu.in, edu.th, edu.my, edu.bd, edu.cn, edu.hk, edu.sg, edu.tw, edu.kr, edu.vn, edu.ph, edu.pk, edu.lk, edu.lb, edu.jo, edu.eg, edu.ae, edu.sa, edu.qa, edu.kw, edu.bn, edu.mo, edu.ir, edu.af, edu.kz, edu.uz, edu.tm, edu.am, edu.aq, edu.tn, edu.ps, edu.km
 
